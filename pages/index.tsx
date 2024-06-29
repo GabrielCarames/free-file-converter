@@ -16,7 +16,7 @@ export default function Home() {
           <div className="w-full h-auto flex flex-col items-center">
             <h1 className="text-[32px] font-bold text-center mt-[50px] ">Youtube MP3 Converter</h1>
             <p className="text-center">
-              Convierte y descarga cualquier video de Youtube a formato MP3
+              Convert and download any YouTube video to MP3 format
             </p>
           </div>
           <Converter
